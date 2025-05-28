@@ -1,0 +1,27 @@
+Collections for MoodMirror App:
+
+1. users
+   - userId (string)
+   - name (string)
+   - email (string)
+   - createdAt (timestamp)
+
+2. mood_entries
+   - entryId (string)
+   - userId (string)
+   - date (timestamp)
+   - moodLevel (int 1–5)
+   - emoji (string)
+   - journalText (string)
+
+3. settings
+   - userId (string)
+   - darkMode (boolean)
+   - notificationEnabled (boolean)
+   - privacyPIN (string or null)
+
+4. reminders
+   - reminderId (string)
+   - userId (string)
+   - time (string HH:mm)
+   - isEnabled (boolean)
