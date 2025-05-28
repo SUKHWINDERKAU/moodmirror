@@ -25,4 +25,4 @@ MoodMirror is an Android app designed to help users track their mood and write d
 - `app/` – Starter project (MainActivity scaffolded)
 
 ## 📎 GitHub Repo Link
-> [Paste your GitHub repository link here]
+> https://github.com/SUKHWINDERKAU/moodmirror
